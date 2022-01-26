@@ -14,3 +14,7 @@ methode
 -affiché score
 -modifier score
 
+exerciceB
+    karaoke
+-nbr player
+-
