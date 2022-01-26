@@ -6,7 +6,8 @@ class karaoke:
     def getBestScoreKaraoke(self):
         BestScoreKaraoke=0
         for i in range(self.nbrplayer):
-            if joueur[i].getScoreTotale>BestScoreKaraoke
+            if joueur[i].getScoreTotale > BestScoreKaraoke:
+                BestScoreKaraoke = joueur[i].getScoreTotale
             
 
 
