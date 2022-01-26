@@ -17,4 +17,14 @@ methode
 exerciceB
     karaoke
 -nbr player
+-chansons
+-nomschansons
+methode
+-
+-
+-
+-
+-
+-
+-
 -
